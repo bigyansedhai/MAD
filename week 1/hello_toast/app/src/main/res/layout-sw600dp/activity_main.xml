@@ -33,7 +33,7 @@
         android:background="@color/colorPrimary"
         android:gravity="center"
         android:text="@string/show_count"
-        android:textSize="150sp"
+        android:textSize="120sp"
         app:fontFamily="sans-serif-black"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
