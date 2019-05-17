@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="todo">
+        <item>make Up</item>
+        <item>Drink Coffe</item>
+        <item>plan of tree</item>
+        <item>go to sleep</item>
+    </string-array>
+</resources>
